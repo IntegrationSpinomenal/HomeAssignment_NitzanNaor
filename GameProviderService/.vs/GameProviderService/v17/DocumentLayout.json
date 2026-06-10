@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\SessionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\SessionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\ISessionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\ISessionService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\TransferRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\TransferRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\RequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\RequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:11:20.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:35:55.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\enums.cs",
+              "RelativeDocumentMoniker": "Models\\enums.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Models\\enums.cs",
+              "RelativeToolTip": "Models\\enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:31:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\TransferRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransferRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\TransferRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\TransferRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:25:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\ISessionService.cs",
+              "RelativeDocumentMoniker": "Service\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\ISessionService.cs",
+              "RelativeToolTip": "Service\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:10:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\SessionService.cs",
+              "RelativeDocumentMoniker": "Service\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\Service\\SessionService.cs",
+              "RelativeToolTip": "Service\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:10:03.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\ErrorResponse.cs",
+              "RelativeToolTip": "DTOs\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:04:49.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\RequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestDTO.cs",
+              "ToolTip": "C:\\Users\\Candidate\\Desktop\\Assignment_NitzanNaor\\GameProviderService\\DTOs\\RequestDTO.cs",
+              "RelativeToolTip": "DTOs\\RequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:49:27.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

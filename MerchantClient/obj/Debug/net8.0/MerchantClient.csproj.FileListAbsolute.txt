@@ -1,0 +1,15 @@
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\bin\Debug\net8.0\MerchantClient.exe
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\bin\Debug\net8.0\MerchantClient.deps.json
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\bin\Debug\net8.0\MerchantClient.runtimeconfig.json
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\bin\Debug\net8.0\MerchantClient.dll
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\bin\Debug\net8.0\MerchantClient.pdb
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.AssemblyInfoInputs.cache
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.AssemblyInfo.cs
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.csproj.CoreCompileInputs.cache
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.sourcelink.json
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.dll
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\refint\MerchantClient.dll
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.pdb
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\MerchantClient.genruntimeconfig.cache
+C:\Users\Candidate\Desktop\Assignment_NitzanNaor\MerchantClient\obj\Debug\net8.0\ref\MerchantClient.dll
